@@ -217,6 +217,7 @@ export default function Cotizador3D() {
                 ancho={ancho}
                 alto={alto}
                 textureType={textureMap[productoSeleccionado.id] || "ondas"}
+                categoria={categoria}
               />
             </div>
             <p className="text-[10px] text-gray-400 mt-2 text-center">
