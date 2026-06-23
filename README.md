@@ -43,3 +43,7 @@
 │   ├── catalog.ts         # Datos de productos, categorías y algoritmo de presupuesto
 │   ├── formatters.ts      # Utilidades de formato de moneda (Guaraníes)
 │   └── textureGenerators.ts # Generadores algorítmicos de canvas para texturas 3D
+
+
+Demo:
+https://gaia-landing-ten.vercel.app/
